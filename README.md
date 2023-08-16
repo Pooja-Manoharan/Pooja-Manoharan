@@ -1,10 +1,10 @@
 ### Hi there 👋 I'm Pooja Manoharan
 ----------------------------------------------------------------------
 
-- 🌱Passionate about creating beautiful and functional websites.
-- ✨Always up for a challenge and eager to learn new technologies.
-- 🍃Multi-tasking prodigy with a knack for getting things done.
-- 🪄Always looking for new ways to improve my skills and knowledge.
+🌱 Passionate about creating beautiful and functional websites.
+✨ Always up for a challenge and eager to learn new technologies.
+🍃 Multi-tasking prodigy with a knack for getting things done.
+🪄 Always looking for new ways to improve my skills and knowledge.
 
 <!--
 **Pooja-Manoharan/Pooja-Manoharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
