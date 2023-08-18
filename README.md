@@ -5,7 +5,7 @@
 - 🌱 Passionate about creating beautiful websites.
 - ✨ Always up for a challenge
 - 🍃 Eager to learn new technologies.
-- 🪄 Multi-tasking prodigy with a knack for getting things done.
+- 🪄 Multi-tasking person with a knack for getting things done.
 
 
 ### Tech Stacks
